@@ -15,7 +15,7 @@ public class C01_HelloWorld {
             yazacağımız not
             birden fazla satır gerekirse
             bu şekilde yazarız.
-            
+
          */
 
 
