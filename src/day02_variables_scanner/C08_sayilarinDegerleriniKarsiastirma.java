@@ -15,7 +15,7 @@ public class C08_sayilarinDegerleriniKarsiastirma {
         System.out.println("lütfen ikinci sayıyı giriniz: ");
         int sayi2= scanner.nextInt();
 
-        int temp = 0;
+        int temp = 0 ;
 
         temp= sayi2;
 
