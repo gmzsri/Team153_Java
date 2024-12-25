@@ -19,7 +19,7 @@ public class C08_sayilarinDegerleriniKarsiastirma {
 
         temp= sayi2;
 
-        sayi2= sayi1;
+        sayi2= sayi1 ;
 
         sayi1=temp;
 
