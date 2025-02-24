@@ -16,7 +16,7 @@ public class C04_Scanner_KullanicidanDegerAlma {
         //2.adım: kullanıcıya ne istediğimizi söyleme
         System.out.println("Lütfen isminizi giriniz....");
 
-        //3.adım: uygun method kullanarak, kullanıcının girdigş degeri alıp
+        //3.adım: uygun method kullanarak, kullanıcının girdigi degeri alıp
         //          bilginin içeriğine uygun bir variable'a kaydetme
 
       //  String girilenIsim = scanner.next(); //kullanıcın giridiği ilk metnin ilk space'a kadar olan kısmını alır
