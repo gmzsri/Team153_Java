@@ -18,7 +18,7 @@ public class C09_CemberAlanCevre {
         System.out.println("Çemberin cevresi: "+ cevre);
 
         double alan = pi*(yaricap*yaricap);
-        System.out.println("Çemberin alanı : "+alan);
+        System.out.println("Çemberin alanı: "+alan);
 
     }
 }
