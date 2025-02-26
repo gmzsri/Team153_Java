@@ -11,5 +11,9 @@ public class C03_Concatenation {
         System.out.println("Sayi degeri : "+ 2 + 3); //23
 
         System.out.println("Sayi degeri : "+ (2 + 3)); //5
+
+        //String ile sadece + işareti kullanılarak birleştirme işlemi yapar
+        // diğer matematik işlemlerine açık değildir - * /
+
     }
 }
